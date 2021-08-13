@@ -1,0 +1,6 @@
+defaults:
+  - dataset: mushrooms
+  - model: simple_model
+batch_size: 64
+val_size: 0.2
+test_size: 0.01
